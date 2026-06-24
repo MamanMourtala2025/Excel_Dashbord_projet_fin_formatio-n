@@ -1,6 +1,6 @@
-Projet de Fin de Formation – Dashboard Excel pour l’Analyse de Données
+Projet de Fin de Formation – Dashboard Excel pour l’Analyse de Données 
 
-📌 Présentation du projet
+📌 Présentation du projet( lien de la video : https://youtu.be/eFHAFV2lQ_E?si=dwjfu8iZnOyYos-X
 
 Ce dépôt contient le tableau de bord interactif réalisé dans le cadre de notre projet complet de fin de formation en Analyse de Données avec Excel.
 
